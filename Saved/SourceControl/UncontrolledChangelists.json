@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GameJam/GameJam_24_01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Scene/Test.umap",
+				"D:/GameJam/GameJam_24_01/Content/Blueprint/GM_PLay.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Blueprint/BP_PlayerTest.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Blueprint/BP_CamManager.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/PostProcess/M_PP_CelShading.uasset"
+			]
+		}
+	]
+}
