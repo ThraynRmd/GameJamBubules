@@ -6,16 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UnrealProject/GameJamBubules/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Scenes/LVL_Proto.umap",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Scenes/LVL_Proto.umap",
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/BP_Controller.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/GameMode/BP_GameMode.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/HUD/BP_HUD.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/Controller/BP_Controller.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/Controller/IA_Interact.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/Controller/IA_Move.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/Controller/IMP_Player.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/BP_Player.uasset"
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/BP_Player.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Interface/BPI_Move.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Movement.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Scenes/LVL_Proto.umap",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/BP_Controller.uasset"
 			]
 		}
 	]
