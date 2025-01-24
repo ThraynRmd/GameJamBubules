@@ -16,6 +16,7 @@
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/BP_Player.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Interface/BPI_Move.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Movement.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_ActorPhysicsMovement.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Scenes/LVL_Proto.umap",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Player/BP_Controller.uasset"
 			]
