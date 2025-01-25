@@ -5,8 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Dash.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset"
+=======
+				"D:/GameJam/GameJam_24_01/Content/Level/Level.umap",
+				"D:/GameJam/GameJam_24_01/Content/BP_CamManager.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_KillZone.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_SplashWater.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Aura.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Aura.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/circle_02.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/T_NoiseMask_Merged_05.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/star_09.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Boost/BP_Boost.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_TerminusHammer.uasset"
+>>>>>>> Thomas
 			]
 		}
 	]
