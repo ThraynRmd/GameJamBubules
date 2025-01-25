@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/BUBBLEJAM/GameJamBubules/Content/Level/Level.umap",
+				"D:/BUBBLEJAM/GameJamBubules/Content/Level/_GENERATED/game3/Cone_5CEB9A25.uasset",
+				"D:/BUBBLEJAM/GameJamBubules/Content/Level/_GENERATED/game3/Cylinder_53CB75FC.uasset",
+				"D:/BUBBLEJAM/GameJamBubules/Content/Level/_GENERATED/game3/Sphere_329E1348.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Dash.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset"
 			]
