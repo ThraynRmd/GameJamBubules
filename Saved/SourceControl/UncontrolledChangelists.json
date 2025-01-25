@@ -5,34 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Dash.uasset",
-<<<<<<< HEAD
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset"
-=======
-				"D:/GameJam/GameJam_24_01/Content/Level/Level.umap",
 				"D:/GameJam/GameJam_24_01/Content/BP_CamManager.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Enviro/BP_BounceAsset.uasset",
 				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_Player.uasset",
-				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_KillZone.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Level/Level.umap",
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Dash.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_SplashWater.uasset",
-				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Aura.uasset",
-				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Aura.uasset",
-				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/circle_02.uasset",
-				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/T_NoiseMask_Merged_05.uasset",
-				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/star_09.uasset",
-				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Boost/BP_Boost.uasset",
-				"D:/GameJam/GameJam_24_01/Content/Asset/SM_TerminusHammer.uasset"
->>>>>>> Thomas
-=======
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/BFL_Common.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Bouncing.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/BP_Player.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Movement.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/__ExternalActors__/LevelTest/7/E8/ZM9MU0UEIRJU6S3W1PGLNY.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/__ExternalActors__/LevelTest/B/IB/FBAFGE3637PFGLXA33VN54.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/__ExternalActors__/LevelTest/0/5U/NN0FTYXPD0W4NBB3B46NHV.uasset"
->>>>>>> origin/Remy
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Run.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Dust.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_Clouds.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_Cloud.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Components/Capacity/BPC_Radioactif.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Components/BPC_Health.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/PP/M_PP_CelShading.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_Bounds.uasset"
 			]
 		}
 	]
