@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Dash.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset"
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/BFL_Common.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Bouncing.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Movement.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/__ExternalActors__/LevelTest/7/E8/ZM9MU0UEIRJU6S3W1PGLNY.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/__ExternalActors__/LevelTest/B/IB/FBAFGE3637PFGLXA33VN54.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/__ExternalActors__/LevelTest/0/5U/NN0FTYXPD0W4NBB3B46NHV.uasset"
 			]
 		}
 	]
