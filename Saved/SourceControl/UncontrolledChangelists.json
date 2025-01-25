@@ -56,7 +56,6 @@
 				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Hit.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Hit.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/slash_01.uasset",
-				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/SM_SwipeTrail.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/T_ChargeTrail.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/T_Splash.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Star.uasset",
@@ -66,6 +65,12 @@
 				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Run.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Water.uasset",
 				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/T_Random_49.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/HDR/HDR_Sky.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Dash.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Cloud.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_Clouds.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Textures/SM_SwipeTrail.uasset",
 				"D:/Aidemoi/JeVeuxMourrir/Content/__ExternalActors__/LevelTest/7/G6/VMMMC3OCU8CP2JVI74QO2H.uasset"
 			]
 		}
