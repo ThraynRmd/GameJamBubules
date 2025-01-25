@@ -1322,3 +1322,285 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.25-11.11.12:195][834]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/game3/Cylinder_53CB75FC.Cylinder_53CB75FC
 [2025.01.25-11.11.12:195][834]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/game3/Cone_5CEB9A25.Cone_5CEB9A25
 [2025.01.25-11.11.12:195][834]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/game3/Sphere_329E1348.Sphere_329E1348
+[2025.01.25-11.31.06:953][814]LogDerivedDataCache: C:/Users/game3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.032 and deleted 0 files with total size 0 MiB. Scanned 1169 files in 1164 folders with total size 69 MiB.
+[2025.01.25-11.51.10:185][459]LogSlate: Took 0.043537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.01.25-11.55.25:456][326]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.25-11.55.25:466][326]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.25-11.55.25:479][327]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.25-11.55.43:128][384]LogContentBrowser: Attempting asset rename: NewFolder -> Ile_de_Paques
+[2025.01.25-11.55.43:128][384]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.25-11.55.50:836][909]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 \\10.31.240.91\_section_game_\GAME3\Gamejam\Bubbl'head\SM_Moai_V1.fbx)
+[2025.01.25-11.55.51:028][909]LogFbx: Loading FBX Scene from \\10.31.240.91\_section_game_\GAME3\Gamejam\Bubbl'head\SM_Moai_V1.fbx
+[2025.01.25-11.55.51:056][909]LogFbx: FBX Scene Loaded Succesfully
+[2025.01.25-12.00.39:838][909]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.01.25-12.00.40:019][909]LogFbx: Display: Triangulating static mesh Cylinder004
+[2025.01.25-12.00.40:083][909]LogStaticMesh: Display: Building static mesh SM_Moai_V1...
+[2025.01.25-12.00.40:148][909]LogStaticMesh: Built static mesh [0.07s] /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1
+[2025.01.25-12.00.40:259][909]LogStaticMesh: Display: Building static mesh SM_Moai_V1...
+[2025.01.25-12.00.40:275][909]LogStaticMesh: Built static mesh [0.02s] /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1
+[2025.01.25-12.00.40:293][909]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 \\10.31.240.91\_section_game_\GAME3\Gamejam\Bubbl'head\SM_Tiki_V1.fbx)
+[2025.01.25-12.00.40:324][909]LogFbx: Loading FBX Scene from \\10.31.240.91\_section_game_\GAME3\Gamejam\Bubbl'head\SM_Tiki_V1.fbx
+[2025.01.25-12.00.40:331][909]LogFbx: FBX Scene Loaded Succesfully
+[2025.01.25-12.00.40:381][909]LogFbx: Display: Triangulating static mesh Cylinder002
+[2025.01.25-12.00.40:431][909]LogStaticMesh: Display: Building static mesh SM_Tiki_V1...
+[2025.01.25-12.00.40:509][909]LogStaticMesh: Built static mesh [0.08s] /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1
+[2025.01.25-12.00.40:531][909]LogStaticMesh: Display: Building static mesh SM_Tiki_V1...
+[2025.01.25-12.00.40:559][909]LogStaticMesh: Built static mesh [0.03s] /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1
+[2025.01.25-12.01.19:550][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1
+[2025.01.25-12.01.19:550][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1
+[2025.01.25-12.01.19:551][256]LogActorFactory: Actor Factory spawned StaticMesh /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1 as actor: StaticMeshActor /Game/Level/Level.Level:PersistentLevel.StaticMeshActor_72
+[2025.01.25-12.01.20:750][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1
+[2025.01.25-12.01.20:750][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1
+[2025.01.25-12.01.20:751][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1 as actor: StaticMeshActor /Game/Level/Level.Level:PersistentLevel.StaticMeshActor_73
+[2025.01.25-12.02.04:463][494]Cmd: DELETE
+[2025.01.25-12.02.04:499][494]Cmd: ACTOR DELETE
+[2025.01.25-12.02.04:886][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.02.05:007][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.01.25-12.02.05:014][494]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2025.01.25-12.02.38:612][489]Cmd: DELETE
+[2025.01.25-12.02.38:612][489]Cmd: ACTOR DELETE
+[2025.01.25-12.02.38:614][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.02.38:686][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.25-12.02.38:690][489]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2025.01.25-12.02.55:384][449]Cmd: DELETE
+[2025.01.25-12.02.55:384][449]Cmd: ACTOR DELETE
+[2025.01.25-12.02.55:386][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.02.55:460][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.25-12.02.55:463][449]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2025.01.25-12.03.11:247][286]Cmd: DELETE
+[2025.01.25-12.03.11:247][286]Cmd: ACTOR DELETE
+[2025.01.25-12.03.11:249][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.03.11:322][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.25-12.03.11:326][286]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2025.01.25-12.03.26:338][987]Cmd: DELETE
+[2025.01.25-12.03.26:338][987]Cmd: ACTOR DELETE
+[2025.01.25-12.03.26:340][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.03.26:411][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.25-12.03.26:414][987]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2025.01.25-12.03.33:117][764]Cmd: DELETE
+[2025.01.25-12.03.33:117][764]Cmd: ACTOR DELETE
+[2025.01.25-12.03.33:119][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.03.33:195][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.25-12.03.33:198][764]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2025.01.25-12.04.27:153][169]Cmd: TRANSACTION UNDO
+[2025.01.25-12.04.27:153][169]LogEditorTransaction: Undo Move Elements
+[2025.01.25-12.04.27:632][176]95895_NS_Dash_MessageLog: System successfully compiled.
+[2025.01.25-12.05.24:689][800]Cmd: TRANSACTION UNDO
+[2025.01.25-12.05.24:689][800]LogEditorTransaction: Undo Move Elements
+[2025.01.25-12.05.25:100][807]95895_NS_Dash_MessageLog: System successfully compiled.
+[2025.01.25-12.05.59:102][764]Cmd: DELETE
+[2025.01.25-12.05.59:103][764]Cmd: ACTOR DELETE
+[2025.01.25-12.05.59:105][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.05.59:184][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.25-12.05.59:189][764]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2025.01.25-12.06.00:628][929]Cmd: DELETE
+[2025.01.25-12.06.00:628][929]Cmd: ACTOR DELETE
+[2025.01.25-12.06.00:630][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.00:699][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.01.25-12.06.00:702][929]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2025.01.25-12.06.01:501][ 16]Cmd: DELETE
+[2025.01.25-12.06.01:501][ 16]Cmd: ACTOR DELETE
+[2025.01.25-12.06.01:503][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.01:573][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.25-12.06.01:576][ 16]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2025.01.25-12.06.02:451][113]Cmd: DELETE
+[2025.01.25-12.06.02:451][113]Cmd: ACTOR DELETE
+[2025.01.25-12.06.02:453][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.02:526][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.25-12.06.02:529][113]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2025.01.25-12.06.04:157][301]Cmd: DELETE
+[2025.01.25-12.06.04:157][301]Cmd: ACTOR DELETE
+[2025.01.25-12.06.04:159][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.04:232][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.25-12.06.04:234][301]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2025.01.25-12.06.05:120][398]Cmd: DELETE
+[2025.01.25-12.06.05:120][398]Cmd: ACTOR DELETE
+[2025.01.25-12.06.05:122][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.05:195][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.25-12.06.05:199][398]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2025.01.25-12.06.06:902][601]Cmd: TRANSACTION UNDO
+[2025.01.25-12.06.06:903][601]LogEditorTransaction: Undo Delete Elements
+[2025.01.25-12.06.07:367][608]95895_NS_Dash_MessageLog: System successfully compiled.
+[2025.01.25-12.06.09:827][880]Cmd: DELETE
+[2025.01.25-12.06.09:827][880]Cmd: ACTOR DELETE
+[2025.01.25-12.06.09:829][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.09:903][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.25-12.06.09:907][880]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2025.01.25-12.06.11:848][103]Cmd: DELETE
+[2025.01.25-12.06.11:848][103]Cmd: ACTOR DELETE
+[2025.01.25-12.06.11:850][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.11:921][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.01.25-12.06.11:924][103]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.06.13:078][234]Cmd: DELETE
+[2025.01.25-12.06.13:078][234]Cmd: ACTOR DELETE
+[2025.01.25-12.06.13:080][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.13:152][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.25-12.06.13:155][234]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.06.15:214][473]Cmd: DELETE
+[2025.01.25-12.06.15:214][473]Cmd: ACTOR DELETE
+[2025.01.25-12.06.15:216][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.15:286][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.25-12.06.15:288][473]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.06.16:267][581]Cmd: DELETE
+[2025.01.25-12.06.16:267][581]Cmd: ACTOR DELETE
+[2025.01.25-12.06.16:269][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.16:341][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.01.25-12.06.16:344][581]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.06.17:313][690]Cmd: DELETE
+[2025.01.25-12.06.17:313][690]Cmd: ACTOR DELETE
+[2025.01.25-12.06.17:316][690]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.17:386][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.25-12.06.17:389][690]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.06.19:683][957]Cmd: DELETE
+[2025.01.25-12.06.19:683][957]Cmd: ACTOR DELETE
+[2025.01.25-12.06.19:685][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.19:755][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.25-12.06.19:758][957]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.06.20:692][ 62]Cmd: DELETE
+[2025.01.25-12.06.20:692][ 62]Cmd: ACTOR DELETE
+[2025.01.25-12.06.20:694][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.20:766][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.25-12.06.20:769][ 62]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2025.01.25-12.06.21:627][156]Cmd: DELETE
+[2025.01.25-12.06.21:627][156]Cmd: ACTOR DELETE
+[2025.01.25-12.06.21:629][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.21:701][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.25-12.06.21:704][156]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2025.01.25-12.06.22:582][254]Cmd: DELETE
+[2025.01.25-12.06.22:582][254]Cmd: ACTOR DELETE
+[2025.01.25-12.06.22:584][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.22:655][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.01.25-12.06.22:657][254]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.06.23:541][353]Cmd: DELETE
+[2025.01.25-12.06.23:541][353]Cmd: ACTOR DELETE
+[2025.01.25-12.06.23:543][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.23:614][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.25-12.06.23:617][353]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.06.25:891][619]Cmd: DELETE
+[2025.01.25-12.06.25:891][619]Cmd: ACTOR DELETE
+[2025.01.25-12.06.25:893][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.25:965][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.25-12.06.25:967][619]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.06.29:801][ 68]Cmd: DELETE
+[2025.01.25-12.06.29:801][ 68]Cmd: ACTOR DELETE
+[2025.01.25-12.06.29:803][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.29:874][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.01.25-12.06.29:876][ 68]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.06.31:123][210]Cmd: DELETE
+[2025.01.25-12.06.31:123][210]Cmd: ACTOR DELETE
+[2025.01.25-12.06.31:125][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.31:199][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.25-12.06.31:201][210]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2025.01.25-12.06.32:651][375]Cmd: DELETE
+[2025.01.25-12.06.32:651][375]Cmd: ACTOR DELETE
+[2025.01.25-12.06.32:653][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.32:724][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.01.25-12.06.32:726][375]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.06.35:279][671]Cmd: DELETE
+[2025.01.25-12.06.35:279][671]Cmd: ACTOR DELETE
+[2025.01.25-12.06.35:281][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.06.35:353][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.25-12.06.35:356][671]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.08.51:411][514]LogShaderCompilers: Display: ================================================
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Total job queries 6488, among them cache hits 41 (0.63%)
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Tracking 6442 distinct input hashes that result in 4644 distinct outputs (72.09%)
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: RAM used: 38.78 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.73%
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Shaders Compiled: 6442
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Jobs assigned 6447, completed 6442 (99.92%)
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Average time worker was idle: 44.41 s
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Time job spent in pending queue: average 198.24 s, longest 406.16 s
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Job execution time: average 5.13 s, max 48.55 s
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Job life time (pending + execution): average 203.53 s, max 407.38
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 444.56 s
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Jobs were issued in 787 batches (only local compilation was used), average 8.19 jobs/batch
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Average processing rate: 14.49 jobs/sec
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Total thread time: 3227.82 s
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Total thread preprocess time: 184.68 s
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Percentage time preprocessing: 5.72%
+[2025.01.25-12.08.51:412][514]LogShaderCompilers: Display: Effective parallelization: 7.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 19.60 sec, max 46.06 sec, min 2.82 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.44 sec, max 8.14 sec, min 4.29 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.23 sec, max 8.53 sec, min 2.15 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.31 sec, max 4.53 sec, min 1.09 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 2.07 sec, max 2.66 sec, min 1.65 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.62% of total time (compiled  150 times, average 2.07 sec, max 2.66 sec, min 1.65 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 3.64% of total time (compiled    6 times, average 19.60 sec, max 46.06 sec, min 2.82 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                                                   FTonemapCS - 3.28% of total time (compiled  420 times, average 0.25 sec, max 0.32 sec, min 0.21 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 3.24% of total time (compiled  256 times, average 0.41 sec, max 0.68 sec, min 0.26 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 2.83% of total time (compiled  128 times, average 0.71 sec, max 1.08 sec, min 0.39 sec)
+[2025.01.25-12.08.51:413][514]LogShaderCompilers: Display: ================================================
+[2025.01.25-12.10.39:368][886]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1
+[2025.01.25-12.10.39:368][886]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1
+[2025.01.25-12.10.39:368][886]LogActorFactory: Actor Factory spawned StaticMesh /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1 as actor: StaticMeshActor /Game/Level/Level.Level:PersistentLevel.StaticMeshActor_102
+[2025.01.25-12.10.40:942][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1
+[2025.01.25-12.10.40:942][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1
+[2025.01.25-12.10.40:943][ 66]LogActorFactory: Actor Factory spawned StaticMesh /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1 as actor: StaticMeshActor /Game/Level/Level.Level:PersistentLevel.StaticMeshActor_103
+[2025.01.25-12.11.54:112][627]Cmd: TRANSACTION UNDO
+[2025.01.25-12.11.54:112][627]LogEditorTransaction: Undo Move Elements
+[2025.01.25-12.11.54:608][634]95895_NS_Dash_MessageLog: System successfully compiled.
+[2025.01.25-12.11.54:669][636]Cmd: TRANSACTION UNDO
+[2025.01.25-12.11.54:669][636]LogEditorTransaction: Undo Move Elements
+[2025.01.25-12.11.56:612][845]95895_NS_Dash_MessageLog: System successfully compiled.
+[2025.01.25-12.12.23:893][996]Cmd: DELETE
+[2025.01.25-12.12.23:894][996]Cmd: ACTOR DELETE
+[2025.01.25-12.12.23:896][996]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.12.23:977][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.25-12.12.23:982][996]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2025.01.25-12.12.27:474][404]Cmd: DELETE
+[2025.01.25-12.12.27:474][404]Cmd: ACTOR DELETE
+[2025.01.25-12.12.27:476][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.12.27:548][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.25-12.12.27:551][404]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.12.39:095][737]Cmd: DELETE
+[2025.01.25-12.12.39:095][737]Cmd: ACTOR DELETE
+[2025.01.25-12.12.39:107][737]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.01.25-12.12.39:109][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.12.39:179][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.25-12.12.39:182][737]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2025.01.25-12.12.43:745][276]Cmd: DELETE
+[2025.01.25-12.12.43:745][276]Cmd: ACTOR DELETE
+[2025.01.25-12.12.43:747][276]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.12.43:818][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.25-12.12.43:820][276]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.12.51:690][158]Cmd: DELETE
+[2025.01.25-12.12.51:690][158]Cmd: ACTOR DELETE
+[2025.01.25-12.12.51:692][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.12.51:762][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.25-12.12.51:765][158]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.01.25-12.12.54:292][454]Cmd: DELETE
+[2025.01.25-12.12.54:292][454]Cmd: ACTOR DELETE
+[2025.01.25-12.12.54:294][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.12.54:367][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.25-12.12.54:369][454]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.12.59:449][ 37]Cmd: DELETE
+[2025.01.25-12.12.59:449][ 37]Cmd: ACTOR DELETE
+[2025.01.25-12.12.59:451][ 37]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.12.59:523][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.25-12.12.59:525][ 37]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2025.01.25-12.13.04:222][549]Cmd: DELETE
+[2025.01.25-12.13.04:222][549]Cmd: ACTOR DELETE
+[2025.01.25-12.13.04:224][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.25-12.13.04:293][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.25-12.13.04:297][549]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2025.01.25-12.15.14:076][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.25-12.15.14:081][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-12.15.14:129][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level" FILE="../../../../BUBBLEJAM/GameJamBubules/Content/Level/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.25-12.15.14:202][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.25-12.15.14:217][296]LogSavePackage: Moving output files for package: /Game/Level/Level
+[2025.01.25-12.15.14:218][296]LogSavePackage: Moving '../../../../BUBBLEJAM/GameJamBubules/Saved/LevelC38C900B4B3DEAA692D90280955F479E.tmp' to '../../../../BUBBLEJAM/GameJamBubules/Content/Level/Level.umap'
+[2025.01.25-12.15.14:236][296]LogFileHelpers: Saving map 'Level' took 0.107
+[2025.01.25-12.15.14:255][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Ile_de_Paques/SM_Moai_V1" FILE="../../../../BUBBLEJAM/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Moai_V1.uasset" SILENT=true
+[2025.01.25-12.15.14:261][296]LogSavePackage: Moving output files for package: /Game/Asset/Ile_de_Paques/SM_Moai_V1
+[2025.01.25-12.15.14:261][296]LogSavePackage: Moving '../../../../BUBBLEJAM/GameJamBubules/Saved/SM_Moai_V17E876F2D476501A4F94255BCE6719158.tmp' to '../../../../BUBBLEJAM/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Moai_V1.uasset'
+[2025.01.25-12.15.14:269][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Ile_de_Paques/SM_Tiki_V1" FILE="../../../../BUBBLEJAM/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Tiki_V1.uasset" SILENT=true
+[2025.01.25-12.15.14:275][296]LogSavePackage: Moving output files for package: /Game/Asset/Ile_de_Paques/SM_Tiki_V1
+[2025.01.25-12.15.14:275][296]LogSavePackage: Moving '../../../../BUBBLEJAM/GameJamBubules/Saved/SM_Tiki_V1F83DA496400559AFF97896B56BCAB190.tmp' to '../../../../BUBBLEJAM/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Tiki_V1.uasset'
+[2025.01.25-12.15.14:282][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 1.14 sec)
+[2025.01.25-12.15.14:290][296]AssetCheck: New page: Asset Save: multiple assets
+[2025.01.25-12.15.14:290][296]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Level.Level
+[2025.01.25-12.15.14:290][296]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Asset/Ile_de_Paques/SM_Tiki_V1.SM_Tiki_V1
+[2025.01.25-12.15.14:290][296]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Asset/Ile_de_Paques/SM_Moai_V1.SM_Moai_V1
