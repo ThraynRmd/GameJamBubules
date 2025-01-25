@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Blueprints/UW_MainMenu.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Texture/T_UI_mainlogo.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Texture/T_UI_backgroundMainMenu.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Font/CherryBombOne-Regular.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Font/CherryBombOne-Regular_Font.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Maps/MainMenu.umap",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Blueprints/GameMode/GM_MainMenu.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Dash.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset"
 			]
