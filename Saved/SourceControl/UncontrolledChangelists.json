@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Materials/T_Morai/T_R_SM_Moai_V1_1001_3.uasset",
 				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Materials/T_Morai/T_BC_SM_Moai_V1.uasset",
 				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Materials/T_Morai/T_R_SM_Moai_V1.uasset",
@@ -61,6 +62,23 @@
 				"D:/BUBBLEJAM/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Tiki_V1.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Dash.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Health.uasset"
+=======
+				"D:/GameJam/GameJam_24_01/Content/BP_CamManager.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Enviro/BP_BounceAsset.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Level/Level.umap",
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Dash.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_SplashWater.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/NS/NS_Run.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/Materials/M_Dust.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_Clouds.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_Cloud.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Components/Capacity/BPC_Radioactif.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Components/BPC_Health.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"D:/GameJam/GameJam_24_01/Content/VFX/PP/M_PP_CelShading.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Asset/SM_Bounds.uasset"
+>>>>>>> main
 			]
 		}
 	]
