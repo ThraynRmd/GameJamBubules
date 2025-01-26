@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/GameJamGlobal2025/GameJamBubules/Content/Level/Level.umap",
 				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Materials/Morai/MI_Morai.uasset",
 				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Tiki_V1.uasset",
@@ -109,6 +110,12 @@
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Materials/MI_GrassFloor.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Materials/Level/MI_Rock1_3.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Materials/Level/MI_Rock1_2.uasset"
+=======
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_GameMode.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_KillZone.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Level/Map1.umap"
+>>>>>>> main
 			]
 		}
 	]
