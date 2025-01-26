@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Level/Level.umap",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Materials/Morai/MI_Morai.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Tiki_V1.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/T_Morai/T_BC_SM_Moai_BodyV1.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/T_Morai/T_BC_SM_Moai_BodyV1_1001__1_.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/T_Morai/T_BC_SM_Moai_BodyV1_1001__2_.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Materials/Characters/M_Dragon.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/Characters/M_BullFrog_BaseColor.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/Characters/M_CAT_BaseColor.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/Characters/M_Dragon_BaseColor.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/Characters/M_Elang_BaseColor.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Chara/SK_Dragon.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/VFX/Materials/M_Bubble.uasset",
+				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Chara/SK_Dragon_Skeleton.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Level/Level.umap",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/MapTopology/SM_Level1.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/VFX/Materials/M_Water.uasset",
@@ -71,13 +86,7 @@
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Blueprints/Widgets/UW_MainMenu.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Materials/MI_GrassFloor.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Materials/Level/MI_Rock1_3.uasset",
-				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Materials/Level/MI_Rock1_2.uasset",
-				"D:/GameJamGlobal2025/GameJamBubules/Content/Level/Level.umap",
-				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Materials/Morai/MI_Morai.uasset",
-				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Ile_de_Paques/SM_Tiki_V1.uasset",
-				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/T_Morai/T_BC_SM_Moai_BodyV1.uasset",
-				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/T_Morai/T_BC_SM_Moai_BodyV1_1001__1_.uasset",
-				"D:/GameJamGlobal2025/GameJamBubules/Content/Asset/Textures/T_Morai/T_BC_SM_Moai_BodyV1_1001__2_.uasset"
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/Materials/Level/MI_Rock1_2.uasset"
 			]
 		}
 	]
