@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_GameMode.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Components/BPC_Bouncing.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/Widgets/UW_MainWin.uasset",
+				"D:/GameJam/GameJam_24_01/Content/Level/Map1.umap",
+				"D:/GameJam/GameJam_24_01/Content/Level/Map2.umap",
+				"D:/GameJam/GameJam_24_01/Content/Game/Blueprints/BP_KillZone.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Level/Level.umap",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Asset/MapTopology/SM_Level1.uasset",
 				"D:/Malvy/gamejam/repo/GameJamBubules/Content/VFX/Materials/M_Water.uasset",
