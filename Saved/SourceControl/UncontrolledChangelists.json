@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Blueprints/Widgets/UW_MainMenu.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Blueprints/Widgets/UW_MainWin.uasset",
+				"D:/Malvy/gamejam/repo/GameJamBubules/Content/Game/Maps/MainMenu.umap",
 				"D:/UnrealProject/GameJamBubules/Content/Asset/OST/OST_Level.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Asset/OST/OST_Level_2.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Asset/OST/OST_Level_Cue.uasset",
