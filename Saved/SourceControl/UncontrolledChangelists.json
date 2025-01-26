@@ -10,7 +10,11 @@
 				"D:/UnrealProject/GameJamBubules/Content/Asset/OST/OST_Level_Cue.uasset",
 				"D:/UnrealProject/GameJamBubules/Content/Level/Map2.umap",
 				"D:/UnrealProject/GameJamBubules/Content/Asset/OST/OST_Level_2_Cue.uasset",
-				"D:/UnrealProject/GameJamBubules/Content/Level/Map1.umap"
+				"D:/UnrealProject/GameJamBubules/Content/Level/Map1.umap",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Bouncing.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Components/BPC_Movement.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/BP_Player.uasset",
+				"D:/UnrealProject/GameJamBubules/Content/Game/Blueprints/Enviro/BP_ObjectBouncing.uasset"
 			]
 		}
 	]
